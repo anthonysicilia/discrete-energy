@@ -13,7 +13,7 @@ This package was built and tested on Python 3.7.6. The requirements file has new
 # Example
 This shows a few ways to compute discrete energy on example data with the default or a custom coarsening function.
 
-```
+```python
 import torch
 from sklearn.cluster import KMeans
 from math import sqrt
