@@ -28,7 +28,7 @@ if __name__ == '__main__':
     s1 = torch.load(open('example_data/sample1.pt', 'rb'))
     s2 = torch.load(open('example_data/sample2.pt', 'rb'))
     # split into train and test
-    # the coarseninf function should be learned indep.
+    # the coarsening function should be learned indep.
     # from the test set to avoid overfitting
     test_s1 = s1[:N]
     test_s2 = s2[:N]
