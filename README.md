@@ -3,7 +3,7 @@ This is the package for computing the discrete energy distance as seen in the AA
 
 # Installation
 To install this package, run the following command: 
-```pip install git+https://github.com/anthonysicilia/classifier-divergence```
+```pip install git+https://github.com/anthonysicilia/discrete-energy```
 
 # Dependencies
 This package was built and tested on Python 3.7.6. The requirements file has newer package numbers, but the code was also tested with the following versions:
